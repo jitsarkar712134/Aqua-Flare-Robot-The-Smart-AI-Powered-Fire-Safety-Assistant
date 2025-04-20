@@ -63,7 +63,4 @@ Future Enhancements:
 Contributing
 We welcome contributions! Feel free to fork the repository, create a new branch, and submit a pull request.
 
-License
-This project is open-source and available under the MIT License.
-
 💡 Aqua Flare Robot – Your Smart Firefighter 🚀🔥
